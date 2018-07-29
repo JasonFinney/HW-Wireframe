@@ -4,7 +4,7 @@ body{
     background: #777;
     font-size: 18px;
     margin: auto;
-    max-width: 960px;
+    width: 960px;
 }
 
 header{
@@ -67,7 +67,7 @@ h1{
     background: #ebebeb;
     padding: 15px;
     position: relative;
-    top: 20px;
+    top: 5px;
 }
 
 p{
@@ -75,5 +75,5 @@ p{
     background: #ebebeb;
     padding: 15px;
     position: relative;
-    top: 20px;
+    bottom: 5px;
 }
